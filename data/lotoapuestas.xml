@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <datos>
-	<version>40</version>
-	<mensaje>Alerta alerta</mensaje>
-	<banner_on>true</banner_on>
-	<url_banner>http://www.andromedesoft.com</url_banner>
-	<img_banner>imagenprueba.jpg</img_banner>
+	<version>0</version>
+	<mensaje></mensaje>
+	<banner_on>false</banner_on>
+	<url_banner></url_banner>
+	<img_banner></img_banner>
 </datos>
