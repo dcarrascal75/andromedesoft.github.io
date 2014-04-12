@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='us-ascii'?>
 <datos>
-	<version>38</version>
+	<version>24</version>
 	<mensaje></mensaje>
 	<banner_on>true</banner_on>
-	<url_banner>http://www.trillonario.com/landings/buyonegetone.php?track=buyone&lot_id=19&account=andromede</url_banner>
-	<img_banner>fr1.png</img_banner>
-	<img_banner_2>fr2.png</img_banner_2>
+	<url_banner>http://pt.trillonario.com/landings/buyonegetone.php?lang=pt&account=andromede</url_banner>
+	<img_banner>em1.png</img_banner>
+	<img_banner_2>em2.png</img_banner_2>
 </datos>
