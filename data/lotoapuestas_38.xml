@@ -2,7 +2,7 @@
 <datos>
 	<version>38</version>
 	<mensaje></mensaje>
-	<banner_on>true</banner_on>
+	<banner_on>false</banner_on>
 	<url_banner>http://www.trillonario.com/landings/buyonegetone.php?track=buyone&lot_id=19&account=andromede</url_banner>
 	<img_banner>fr1.png</img_banner>
 	<img_banner_2>fr2.png</img_banner_2>
