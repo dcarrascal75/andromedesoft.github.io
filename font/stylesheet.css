@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'QlassikBold';
+    src: url('qlassikbold_tb-webfont.eot');
+    src: url('qlassikbold_tb-webfont.eot?#iefix') format('embedded-opentype'),
+         url('qlassikbold_tb-webfont.woff') format('woff'),
+         url('qlassikbold_tb-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+ @font-face {
+  font-family: 'Neuropol';
+  src: url('neuropol-webfont.eot?') format('eot'), url('neuropol-webfont.woff') format('woff'), url('neuropol-webfont.ttf') format('truetype');
+      font-weight: small;
+    font-style: normal;
+}
+
