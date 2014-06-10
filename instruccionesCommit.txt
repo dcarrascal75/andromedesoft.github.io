@@ -1,6 +1,6 @@
 Instrucciones: Recuerda que la rama remota se llama gh-pages!!
 
 git add .
-git commit -a -m “testeando todo”
+git commit -a -m "testeando todo"
 git push -u origin gh-pages
 
